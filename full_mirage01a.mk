@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := mobee01a
+PRODUCT_DEVICE := mirage01a
 PRODUCT_NAME := full_mobee01a
 PRODUCT_BRAND := LYF
 PRODUCT_MODEL := LYF Water 8
